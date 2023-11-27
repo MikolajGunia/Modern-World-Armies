@@ -1,0 +1,1251 @@
+﻿{
+    "teamInfo": [
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "2283452545",
+                    "sourceWorkshopId": 2283452545,
+                    "name": "BF4 Ammo Crate"
+                },
+                {
+                    "sourceDirectory": "2283452545",
+                    "sourceWorkshopId": 2283452545,
+                    "name": "BF4 Medkit"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "FRAG"
+                },
+                {
+                    "sourceDirectory": "1528400400",
+                    "sourceWorkshopId": 1528400400,
+                    "name": "KNIFE"
+                },
+                {
+                    "sourceDirectory": "2815074086",
+                    "sourceWorkshopId": 2815074086,
+                    "name": "Binoculars"
+                },
+                {
+                    "sourceDirectory": "2421000653",
+                    "sourceWorkshopId": 2421000653,
+                    "name": "Entrenching Tool"
+                },
+                {
+                    "sourceDirectory": "2956881128",
+                    "sourceWorkshopId": 2956881128,
+                    "name": "BMW - G27k Ex"
+                },
+                {
+                    "sourceDirectory": "2193324538",
+                    "sourceWorkshopId": 2193324538,
+                    "name": "Modèle 1935S"
+                },
+                {
+                    "sourceDirectory": "2033554481",
+                    "sourceWorkshopId": 2033554481,
+                    "name": "SIG MCX Virtus Thermal"
+                },
+                {
+                    "sourceDirectory": "2669954967",
+                    "sourceWorkshopId": 2669954967,
+                    "name": "SG553"
+                },
+                {
+                    "sourceDirectory": "2033554481",
+                    "sourceWorkshopId": 2033554481,
+                    "name": "SIG MCX Virtus Iron"
+                },
+                {
+                    "sourceDirectory": "2033554481",
+                    "sourceWorkshopId": 2033554481,
+                    "name": "SIG MCX Virtus 5x"
+                },
+                {
+                    "sourceDirectory": "2033554481",
+                    "sourceWorkshopId": 2033554481,
+                    "name": "SIG MCX SBR Reflex"
+                },
+                {
+                    "sourceDirectory": "1526409713",
+                    "sourceWorkshopId": 1526409713,
+                    "name": "MAS-78 F1"
+                },
+                {
+                    "sourceDirectory": "1310830470",
+                    "sourceWorkshopId": 1310830470,
+                    "name": "SCARB-L [INFANTRY]"
+                },
+                {
+                    "sourceDirectory": "1310830470",
+                    "sourceWorkshopId": 1310830470,
+                    "name": "SCARB-L SOCOM"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416-T1/S"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416-DR/S/PDW/B/K"
+                },
+                {
+                    "sourceDirectory": "2995390173",
+                    "sourceWorkshopId": 2995390173,
+                    "name": "FN Minimi 7.62 Acog"
+                },
+                {
+                    "sourceDirectory": "2995390173",
+                    "sourceWorkshopId": 2995390173,
+                    "name": "FN Minimi 7.62"
+                },
+                {
+                    "sourceDirectory": "2995390173",
+                    "sourceWorkshopId": 2995390173,
+                    "name": "FN Minimi 5.56 Tac"
+                },
+                {
+                    "sourceDirectory": "2995390173",
+                    "sourceWorkshopId": 2995390173,
+                    "name": "FN Minimi 7.62 Para"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416-H"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416-UH1"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "M27"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416-H LAPD"
+                },
+                {
+                    "sourceDirectory": "2995390173",
+                    "sourceWorkshopId": 2995390173,
+                    "name": "FN Minimi 7.62 Tac"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416-3X"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416-H/L/K"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "M27 RWK"
+                },
+                {
+                    "sourceDirectory": "2995390173",
+                    "sourceWorkshopId": 2995390173,
+                    "name": "FN Minimi 5.56"
+                },
+                {
+                    "sourceDirectory": "2995390173",
+                    "sourceWorkshopId": 2995390173,
+                    "name": "FN Minimi 5.56 Para"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416C"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416MOD-H/S/L"
+                },
+                {
+                    "sourceDirectory": "1310830470",
+                    "sourceWorkshopId": 1310830470,
+                    "name": "SCARB-GL"
+                },
+                {
+                    "sourceDirectory": "1310830470",
+                    "sourceWorkshopId": 1310830470,
+                    "name": "SCARB-H"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416-MRO"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416D CAG"
+                },
+                {
+                    "sourceDirectory": "2995390173",
+                    "sourceWorkshopId": 2995390173,
+                    "name": "FN Minimi 5.56 RDS"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416-DR/B/SMR/PRS"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416-R/L/K/PRS"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416D CAG-S"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416-R \"Union Guard\""
+                },
+                {
+                    "sourceDirectory": "1310830470",
+                    "sourceWorkshopId": 1310830470,
+                    "name": "SCARB-H SOCOM"
+                },
+                {
+                    "sourceDirectory": "1283748352",
+                    "sourceWorkshopId": 1283748352,
+                    "name": "FR F1"
+                },
+                {
+                    "sourceDirectory": "1283748352",
+                    "sourceWorkshopId": 1283748352,
+                    "name": "FR F1 Scoped"
+                },
+                {
+                    "sourceDirectory": "1310830470",
+                    "sourceWorkshopId": 1310830470,
+                    "name": "SCARB-SV"
+                },
+                {
+                    "sourceDirectory": "1526409713",
+                    "sourceWorkshopId": 1526409713,
+                    "name": "MAS-78 F1 SEMI"
+                },
+                {
+                    "sourceDirectory": "2999089538",
+                    "sourceWorkshopId": 2999089538,
+                    "name": "Hecate II"
+                },
+                {
+                    "sourceDirectory": "1877507329",
+                    "sourceWorkshopId": 1877507329,
+                    "name": "Sako TRG-42"
+                },
+                {
+                    "sourceDirectory": "2999089538",
+                    "sourceWorkshopId": 2999089538,
+                    "name": "Hecate II-S"
+                },
+                {
+                    "sourceDirectory": "1759885826",
+                    "sourceWorkshopId": 1759885826,
+                    "name": "MP5"
+                },
+                {
+                    "sourceDirectory": "2675534572",
+                    "sourceWorkshopId": 2675534572,
+                    "name": "P90 (Primary)"
+                },
+                {
+                    "sourceDirectory": "1759885826",
+                    "sourceWorkshopId": 1759885826,
+                    "name": "MP5SD"
+                },
+                {
+                    "sourceDirectory": "1759885826",
+                    "sourceWorkshopId": 1759885826,
+                    "name": "MP5K Buttstock"
+                },
+                {
+                    "sourceDirectory": "2346430067",
+                    "sourceWorkshopId": 2346430067,
+                    "name": "Remington 870"
+                },
+                {
+                    "sourceDirectory": "2346412757",
+                    "sourceWorkshopId": 2346412757,
+                    "name": "Mossberg 500a"
+                },
+                {
+                    "sourceDirectory": "2091797818",
+                    "sourceWorkshopId": 2091797818,
+                    "name": "M1014"
+                },
+                {
+                    "sourceDirectory": "2091797818",
+                    "sourceWorkshopId": 2091797818,
+                    "name": "Benelli M4 Tactical"
+                },
+                {
+                    "sourceDirectory": "2091797818",
+                    "sourceWorkshopId": 2091797818,
+                    "name": "Benelli M4"
+                },
+                {
+                    "sourceDirectory": "2855798573",
+                    "sourceWorkshopId": 2855798573,
+                    "name": "HK USP Tactical"
+                },
+                {
+                    "sourceDirectory": "2945199613",
+                    "sourceWorkshopId": 2945199613,
+                    "name": "Glock 19 R/S"
+                },
+                {
+                    "sourceDirectory": "2855798573",
+                    "sourceWorkshopId": 2855798573,
+                    "name": "HK USP Reflex Tactical"
+                },
+                {
+                    "sourceDirectory": "2991597545",
+                    "sourceWorkshopId": 2991597545,
+                    "name": "P226 Tac-S"
+                },
+                {
+                    "sourceDirectory": "2991597545",
+                    "sourceWorkshopId": 2991597545,
+                    "name": "P226-S"
+                },
+                {
+                    "sourceDirectory": "2945199613",
+                    "sourceWorkshopId": 2945199613,
+                    "name": "Glock 19 R"
+                },
+                {
+                    "sourceDirectory": "2945199613",
+                    "sourceWorkshopId": 2945199613,
+                    "name": "Glock 19"
+                },
+                {
+                    "sourceDirectory": "2991597545",
+                    "sourceWorkshopId": 2991597545,
+                    "name": "P226 Tac"
+                },
+                {
+                    "sourceDirectory": "2991597545",
+                    "sourceWorkshopId": 2991597545,
+                    "name": "P226 Flashlight"
+                },
+                {
+                    "sourceDirectory": "2991597545",
+                    "sourceWorkshopId": 2991597545,
+                    "name": "P226"
+                },
+                {
+                    "sourceDirectory": "2855798573",
+                    "sourceWorkshopId": 2855798573,
+                    "name": "HK USP Reflex"
+                },
+                {
+                    "sourceDirectory": "2359136262",
+                    "sourceWorkshopId": 2359136262,
+                    "name": "Beretta M92FS"
+                },
+                {
+                    "sourceDirectory": "2855798573",
+                    "sourceWorkshopId": 2855798573,
+                    "name": "HK USP"
+                },
+                {
+                    "sourceDirectory": "1759885826",
+                    "sourceWorkshopId": 1759885826,
+                    "name": "MP5K"
+                },
+                {
+                    "sourceDirectory": "2675534572",
+                    "sourceWorkshopId": 2675534572,
+                    "name": "P90 (Secondary)"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416C(PDW)"
+                },
+                {
+                    "sourceDirectory": "1310830470",
+                    "sourceWorkshopId": 1310830470,
+                    "name": "SCARB-PDW"
+                },
+                {
+                    "sourceDirectory": "2230809961",
+                    "sourceWorkshopId": 2230809961,
+                    "name": "[FGM-148 Javelin]"
+                },
+                {
+                    "sourceDirectory": "2885808690",
+                    "sourceWorkshopId": 2885808690,
+                    "name": "AT4"
+                },
+                {
+                    "sourceDirectory": "1144589299",
+                    "sourceWorkshopId": 1144589299,
+                    "name": "Grenade launcher"
+                },
+                {
+                    "sourceDirectory": "2999089538",
+                    "sourceWorkshopId": 2999089538,
+                    "name": "Hecate II-S Gear"
+                },
+                {
+                    "sourceDirectory": "2999089538",
+                    "sourceWorkshopId": 2999089538,
+                    "name": "Hecate II Gear"
+                },
+                {
+                    "sourceDirectory": "2995390173",
+                    "sourceWorkshopId": 2995390173,
+                    "name": "FN Minimi 5.56 Gear"
+                },
+                {
+                    "sourceDirectory": "2995390173",
+                    "sourceWorkshopId": 2995390173,
+                    "name": "FN Minimi 5.56 Para Gear"
+                },
+                {
+                    "sourceDirectory": "2995390173",
+                    "sourceWorkshopId": 2995390173,
+                    "name": "FN Minimi 7.62 Gear"
+                },
+                {
+                    "sourceDirectory": "2995390173",
+                    "sourceWorkshopId": 2995390173,
+                    "name": "FN Minimi 7.62 Para Gear"
+                },
+                {
+                    "sourceDirectory": "1347353252",
+                    "sourceWorkshopId": 1347353252,
+                    "name": "FN MAG"
+                },
+                {
+                    "sourceDirectory": "1922168394",
+                    "sourceWorkshopId": 1922168394,
+                    "name": "Morphine"
+                },
+                {
+                    "sourceDirectory": "1922168394",
+                    "sourceWorkshopId": 1922168394,
+                    "name": "Bandage"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "3007201486",
+                    "sourceWorkshopId": 3007201486,
+                    "name": "usm_gbc180 woodland"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2957833320",
+                    "sourceWorkshopId": 2957833320,
+                    "name": "VBL M2HB"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2859421425",
+                    "sourceWorkshopId": 2859421425,
+                    "name": "Quadbike"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "2959387687",
+                    "sourceWorkshopId": 2959387687,
+                    "name": "AMX56"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "2347729874",
+                    "sourceWorkshopId": 2347729874,
+                    "name": "Tiger fix 1"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2383815447",
+                    "sourceWorkshopId": 2383815447,
+                    "name": "Dassault Mirage  3"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "2416331296",
+                    "sourceWorkshopId": 2416331296,
+                    "name": "dv15 NEW"
+                },
+                {
+                    "type": 7,
+                    "sourceDirectory": "2339530809",
+                    "sourceWorkshopId": 2339530809,
+                    "name": "submarine prefab"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "2827942091",
+                    "sourceWorkshopId": 2827942091,
+                    "name": "Cougar_Puma (French)"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "3006273030",
+                    "sourceWorkshopId": 3006273030,
+                    "name": "N VBCI [Grille]"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "1399806748",
+                    "sourceWorkshopId": 1399806748,
+                    "name": "M134 Stand"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2524258532",
+                    "sourceWorkshopId": 2524258532,
+                    "name": "Milan"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2487590894",
+                    "sourceWorkshopId": 2487590894,
+                    "name": "40mm launcher by Sowen"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2852835409",
+                "sourceWorkshopId": 2852835409,
+                "name": "French Army"
+            }
+        },
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "1875910521",
+                    "sourceWorkshopId": 1875910521,
+                    "name": "QBZ-03"
+                },
+                {
+                    "sourceDirectory": "2809625767",
+                    "sourceWorkshopId": 2809625767,
+                    "name": "qbz191 qmk"
+                },
+                {
+                    "sourceDirectory": "2844551115",
+                    "sourceWorkshopId": 2844551115,
+                    "name": "QTS-11"
+                },
+                {
+                    "sourceDirectory": "2793709088",
+                    "sourceWorkshopId": 2793709088,
+                    "name": "ACP-95-1"
+                },
+                {
+                    "sourceDirectory": "1875910521",
+                    "sourceWorkshopId": 1875910521,
+                    "name": "QBZ-03B"
+                },
+                {
+                    "sourceDirectory": "1909981936",
+                    "sourceWorkshopId": 1909981936,
+                    "name": "QBZ-95-1"
+                },
+                {
+                    "sourceDirectory": "2793709088",
+                    "sourceWorkshopId": 2793709088,
+                    "name": "ACP-95-1 PAP"
+                },
+                {
+                    "sourceDirectory": "2844551115",
+                    "sourceWorkshopId": 2844551115,
+                    "name": "QTS-11 CQB"
+                },
+                {
+                    "sourceDirectory": "2713288067",
+                    "sourceWorkshopId": 2713288067,
+                    "name": "PKM"
+                },
+                {
+                    "sourceDirectory": "2809625767",
+                    "sourceWorkshopId": 2809625767,
+                    "name": "qbz191 exps3"
+                },
+                {
+                    "sourceDirectory": "2935041245",
+                    "sourceWorkshopId": 2935041245,
+                    "name": "Type 81-1"
+                },
+                {
+                    "sourceDirectory": "2935041245",
+                    "sourceWorkshopId": 2935041245,
+                    "name": "Type 81 LMG"
+                },
+                {
+                    "sourceDirectory": "2809625767",
+                    "sourceWorkshopId": 2809625767,
+                    "name": "qbz191"
+                },
+                {
+                    "sourceDirectory": "1909981936",
+                    "sourceWorkshopId": 1909981936,
+                    "name": "QBZ-95B-1"
+                },
+                {
+                    "sourceDirectory": "1909981936",
+                    "sourceWorkshopId": 1909981936,
+                    "name": "QBZ-95-1 RDS"
+                },
+                {
+                    "sourceDirectory": "2809625767",
+                    "sourceWorkshopId": 2809625767,
+                    "name": "qbu191"
+                },
+                {
+                    "sourceDirectory": "2844551115",
+                    "sourceWorkshopId": 2844551115,
+                    "name": "QTS-11 RD"
+                },
+                {
+                    "sourceDirectory": "1909981936",
+                    "sourceWorkshopId": 1909981936,
+                    "name": "QBZ-95-1 Grenade"
+                },
+                {
+                    "sourceDirectory": "2793709088",
+                    "sourceWorkshopId": 2793709088,
+                    "name": "QBZ-95-1"
+                },
+                {
+                    "sourceDirectory": "2935041245",
+                    "sourceWorkshopId": 2935041245,
+                    "name": "Type 81"
+                },
+                {
+                    "sourceDirectory": "2844551115",
+                    "sourceWorkshopId": 2844551115,
+                    "name": "QTS-11 CQB Shell"
+                },
+                {
+                    "sourceDirectory": "1909981936",
+                    "sourceWorkshopId": 1909981936,
+                    "name": "QBZ-95-1 ACOG"
+                },
+                {
+                    "sourceDirectory": "2793709088",
+                    "sourceWorkshopId": 2793709088,
+                    "name": "ACP-95-1 QMK152"
+                },
+                {
+                    "sourceDirectory": "2842388332",
+                    "sourceWorkshopId": 2842388332,
+                    "name": "CS/LR4 S"
+                },
+                {
+                    "sourceDirectory": "1888540708",
+                    "sourceWorkshopId": 1888540708,
+                    "name": "QBU-88 I"
+                },
+                {
+                    "sourceDirectory": "1888540708",
+                    "sourceWorkshopId": 1888540708,
+                    "name": "QBU-88"
+                },
+                {
+                    "sourceDirectory": "2842388332",
+                    "sourceWorkshopId": 2842388332,
+                    "name": "CS/LR4 Low range"
+                },
+                {
+                    "sourceDirectory": "1545234783",
+                    "sourceWorkshopId": 1545234783,
+                    "name": "SVD"
+                },
+                {
+                    "sourceDirectory": "1545234783",
+                    "sourceWorkshopId": 1545234783,
+                    "name": "SVD-I"
+                },
+                {
+                    "sourceDirectory": "3038440886",
+                    "sourceWorkshopId": 3038440886,
+                    "name": "T-5000S"
+                },
+                {
+                    "sourceDirectory": "3038440886",
+                    "sourceWorkshopId": 3038440886,
+                    "name": "T-5000"
+                },
+                {
+                    "sourceDirectory": "1704549204",
+                    "sourceWorkshopId": 1704549204,
+                    "name": "<color=#ff6EC7>QBU10</color>"
+                },
+                {
+                    "sourceDirectory": "2842388332",
+                    "sourceWorkshopId": 2842388332,
+                    "name": "CS/LR4"
+                },
+                {
+                    "sourceDirectory": "1888540708",
+                    "sourceWorkshopId": 1888540708,
+                    "name": "QBU-88 S"
+                },
+                {
+                    "sourceDirectory": "2300647874",
+                    "sourceWorkshopId": 2300647874,
+                    "name": "AMR-2"
+                },
+                {
+                    "sourceDirectory": "2931587748",
+                    "sourceWorkshopId": 2931587748,
+                    "name": "QBU-201"
+                },
+                {
+                    "sourceDirectory": "3025568558",
+                    "sourceWorkshopId": 3025568558,
+                    "name": "QBU 88"
+                },
+                {
+                    "sourceDirectory": "1888540708",
+                    "sourceWorkshopId": 1888540708,
+                    "name": "QBU-88 Tactical"
+                },
+                {
+                    "sourceDirectory": "2802441341",
+                    "sourceWorkshopId": 2802441341,
+                    "name": "Type 79"
+                },
+                {
+                    "sourceDirectory": "2802441341",
+                    "sourceWorkshopId": 2802441341,
+                    "name": "PEAK-79"
+                },
+                {
+                    "sourceDirectory": "2077124284",
+                    "sourceWorkshopId": 2077124284,
+                    "name": "CS/LS06"
+                },
+                {
+                    "sourceDirectory": "3092429950",
+                    "sourceWorkshopId": 3092429950,
+                    "name": "PM63-RAK [25 ROUNDS]"
+                },
+                {
+                    "sourceDirectory": "2870196587",
+                    "sourceWorkshopId": 2870196587,
+                    "name": "92gs"
+                },
+                {
+                    "sourceDirectory": "1903708901",
+                    "sourceWorkshopId": 1903708901,
+                    "name": "QSW-06"
+                },
+                {
+                    "sourceDirectory": "2870196587",
+                    "sourceWorkshopId": 2870196587,
+                    "name": "92g"
+                },
+                {
+                    "sourceDirectory": "1903708901",
+                    "sourceWorkshopId": 1903708901,
+                    "name": "QSZ-92 5.8mm"
+                },
+                {
+                    "sourceDirectory": "1903708901",
+                    "sourceWorkshopId": 1903708901,
+                    "name": "QSZ-92 9mm"
+                },
+                {
+                    "sourceDirectory": "1903708901",
+                    "sourceWorkshopId": 1903708901,
+                    "name": "QSZ-92G"
+                },
+                {
+                    "sourceDirectory": "2210708921",
+                    "sourceWorkshopId": 2210708921,
+                    "name": "QSZ-11"
+                },
+                {
+                    "sourceDirectory": "2077124284",
+                    "sourceWorkshopId": 2077124284,
+                    "name": "CS/LS06 PDW"
+                },
+                {
+                    "sourceDirectory": "2802441341",
+                    "sourceWorkshopId": 2802441341,
+                    "name": "Type 79 Folded Stock"
+                },
+                {
+                    "sourceDirectory": "3092429950",
+                    "sourceWorkshopId": 3092429950,
+                    "name": "PM63-RAK"
+                },
+                {
+                    "sourceDirectory": "2867618927",
+                    "sourceWorkshopId": 2867618927,
+                    "name": "RPO-A"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "RPG-7 Scope"
+                },
+                {
+                    "sourceDirectory": "2207627049",
+                    "sourceWorkshopId": 2207627049,
+                    "name": "QW2 Green"
+                },
+                {
+                    "sourceDirectory": "1937193098",
+                    "sourceWorkshopId": 1937193098,
+                    "name": "QLU-11"
+                },
+                {
+                    "sourceDirectory": "2910258318",
+                    "sourceWorkshopId": 2910258318,
+                    "name": "PF98A[FAE]"
+                },
+                {
+                    "sourceDirectory": "1923594001",
+                    "sourceWorkshopId": 1923594001,
+                    "name": "DZJ-08 RDS"
+                },
+                {
+                    "sourceDirectory": "1923594001",
+                    "sourceWorkshopId": 1923594001,
+                    "name": "DZJ-08"
+                },
+                {
+                    "sourceDirectory": "2910258318",
+                    "sourceWorkshopId": 2910258318,
+                    "name": "PF98A"
+                },
+                {
+                    "sourceDirectory": "2910258318",
+                    "sourceWorkshopId": 2910258318,
+                    "name": "PF98"
+                },
+                {
+                    "sourceDirectory": "2852426742",
+                    "sourceWorkshopId": 2852426742,
+                    "name": "HJ-12"
+                },
+                {
+                    "sourceDirectory": "2901639728",
+                    "sourceWorkshopId": 2901639728,
+                    "name": "<color=yellow>AirStrike JH-7A</color>"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "RPG-7"
+                },
+                {
+                    "sourceDirectory": "3038440886",
+                    "sourceWorkshopId": 3038440886,
+                    "name": "T-5000 Gear"
+                },
+                {
+                    "sourceDirectory": "3038440886",
+                    "sourceWorkshopId": 3038440886,
+                    "name": "T-5000-S Gear"
+                },
+                {
+                    "sourceDirectory": "1888540708",
+                    "sourceWorkshopId": 1888540708,
+                    "name": "QBU-88 Tactical[Gear]"
+                },
+                {
+                    "sourceDirectory": "2300647874",
+                    "sourceWorkshopId": 2300647874,
+                    "name": "AMR-2 [Gear]"
+                },
+                {
+                    "sourceDirectory": "1888540708",
+                    "sourceWorkshopId": 1888540708,
+                    "name": "QBU-88[Gear]"
+                },
+                {
+                    "sourceDirectory": "2576197633",
+                    "sourceWorkshopId": 2576197633,
+                    "name": "Norinco Type 82-2"
+                },
+                {
+                    "sourceDirectory": "2815074086",
+                    "sourceWorkshopId": 2815074086,
+                    "name": "Binoculars"
+                },
+                {
+                    "sourceDirectory": "2283452545",
+                    "sourceWorkshopId": 2283452545,
+                    "name": "BF4 Medkit"
+                },
+                {
+                    "sourceDirectory": "2283452545",
+                    "sourceWorkshopId": 2283452545,
+                    "name": "BF4 Ammo Crate"
+                },
+                {
+                    "sourceDirectory": "1930788997",
+                    "sourceWorkshopId": 1930788997,
+                    "name": "QJY-88 LongRange"
+                },
+                {
+                    "sourceDirectory": "1930788997",
+                    "sourceWorkshopId": 1930788997,
+                    "name": "QJY-88"
+                },
+                {
+                    "sourceDirectory": "1909981936",
+                    "sourceWorkshopId": 1909981936,
+                    "name": "QBB-95"
+                },
+                {
+                    "sourceDirectory": "2356797286",
+                    "sourceWorkshopId": 2356797286,
+                    "name": "PKM"
+                },
+                {
+                    "sourceDirectory": "1884316371",
+                    "sourceWorkshopId": 1884316371,
+                    "name": "LRX"
+                },
+                {
+                    "sourceDirectory": "1884316371",
+                    "sourceWorkshopId": 1884316371,
+                    "name": "LRX II"
+                },
+                {
+                    "sourceDirectory": "1884316371",
+                    "sourceWorkshopId": 1884316371,
+                    "name": "LRX S II"
+                },
+                {
+                    "sourceDirectory": "1884316371",
+                    "sourceWorkshopId": 1884316371,
+                    "name": "LRX-A"
+                },
+                {
+                    "sourceDirectory": "1884316371",
+                    "sourceWorkshopId": 1884316371,
+                    "name": "LRX-I"
+                },
+                {
+                    "sourceDirectory": "1884316371",
+                    "sourceWorkshopId": 1884316371,
+                    "name": "LRX-S"
+                },
+                {
+                    "sourceDirectory": "1884316371",
+                    "sourceWorkshopId": 1884316371,
+                    "name": "LRX-S/A"
+                },
+                {
+                    "sourceDirectory": "1884316371",
+                    "sourceWorkshopId": 1884316371,
+                    "name": "LRX-S/I[ML]"
+                },
+                {
+                    "sourceDirectory": "1922168394",
+                    "sourceWorkshopId": 1922168394,
+                    "name": "Morphine"
+                },
+                {
+                    "sourceDirectory": "1922168394",
+                    "sourceWorkshopId": 1922168394,
+                    "name": "Bandage"
+                },
+                {
+                    "sourceDirectory": "2421000653",
+                    "sourceWorkshopId": 2421000653,
+                    "name": "Entrenching Tool"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2978507395",
+                    "sourceWorkshopId": 2978507395,
+                    "name": "re ctm131 wl"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "3066060851",
+                    "sourceWorkshopId": 3066060851,
+                    "name": "PHL-16 MLRS Woodland 3 2"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2170149659",
+                    "sourceWorkshopId": 2170149659,
+                    "name": "Dongfeng Mengshi EQ2050B"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "2473519875",
+                    "sourceWorkshopId": 2473519875,
+                    "name": "ZTZ-99A"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "2846379695",
+                    "sourceWorkshopId": 2846379695,
+                    "name": "Z-19"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2842917747",
+                    "sourceWorkshopId": 2842917747,
+                    "name": "lf_J-7E"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "rhib"
+                },
+                {
+                    "type": 7,
+                    "sourceDirectory": "2135782813",
+                    "sourceWorkshopId": 2135782813,
+                    "name": "Type052D Destroyer(driver use missle)"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "2921838149",
+                    "sourceWorkshopId": 2921838149,
+                    "name": "J-8II 1"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "2844906130",
+                    "sourceWorkshopId": 2844906130,
+                    "name": "Z-20"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "2844909849",
+                    "sourceWorkshopId": 2844909849,
+                    "name": "lf_ZBL-08 1"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2226968340",
+                    "sourceWorkshopId": 2226968340,
+                    "name": "QJZ191 heavy"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2420298969",
+                    "sourceWorkshopId": 2420298969,
+                    "name": "HJ8A"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2963649042",
+                    "sourceWorkshopId": 2963649042,
+                    "name": "Oerlikon GDF-003"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2843251470",
+                "sourceWorkshopId": 2843251470,
+                "name": "PLA Type 87 Camo"
+            }
+        }
+    ],
+    "mutatorInfo": [
+        {
+            "sourceDirectory": "2833321017",
+            "sourceWorkshopId": 2833321017,
+            "name": "Flags of the World",
+            "fields": [
+                {
+                    "id": "EagleFlag",
+                    "serializedValue": "59"
+                },
+                {
+                    "id": "RavenFlag",
+                    "serializedValue": "35"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2490433890",
+            "sourceWorkshopId": 2490433890,
+            "name": "French Voices",
+            "fields": [
+                {
+                    "id": "killlimit",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "groupdistance",
+                    "serializedValue": "500"
+                },
+                {
+                    "id": "hitdistance",
+                    "serializedValue": "15"
+                },
+                {
+                    "id": "dieddistance",
+                    "serializedValue": "25"
+                },
+                {
+                    "id": "killdistance",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "grouppriority",
+                    "serializedValue": "24"
+                },
+                {
+                    "id": "hitpriority",
+                    "serializedValue": "192"
+                },
+                {
+                    "id": "killpriority",
+                    "serializedValue": "128"
+                },
+                {
+                    "id": "diedpriority",
+                    "serializedValue": "160"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2884609345",
+            "sourceWorkshopId": 2884609345,
+            "name": "French Bot Names",
+            "fields": [
+                {
+                    "id": "firstNames",
+                    "serializedValue": "Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Sdt;Cpl;Cpl;Cpl;Cpl;Cpl;Cpl;Cpl;Cpl;Cpl;Sergt;Sergt;Sergt;Sergt;SLt;SLt;Ltn;Ltn;Cne;Cne;Cde;Cde;LCl;Col"
+                },
+                {
+                    "id": "lastNames",
+                    "serializedValue": "d'Alançon;Alain;d'Inville;André;Arnoux;d'Aulan;Billotte;Boucheron;Deslaurens;Détroyat;Douchy;Droulers;Farvacques;Ferry;Flamant;Garaud;Georges;Goué;Gravereaux;Grimonprez;Guyou;Jaubert;Journois;Lagrange;Lassalle;Leblanc;Lemay;Lemonnier;Léro;Lévy;Liétaer;Maguet;Mairesse;Mantoux;Marty;Mermoud;Mesny;Morel;Mouchotte;Nirouet;Nizan;Pourchier;Roger;Suvigny;Martin;Bernard;Robert;Richard;Durand;Dubois;Moreau;Simon;Laurent;Michel;Garcia;Thomas;Leroy;David;Morel;Roux;Girard;Fournier;Lambert;Lefebvre;Mercier;Blanc;Dupont;Faure;Bertrand;Morin;Garnier;Nicolas;Marie;Rousseau;Bonnet;Vincent;Henry;Masson;Robin;Chevalier;Boyer;Denis;Blanchard;Lemaire;Dufour;Gauthier;Perrin;Fontaine;Joly;Jean;Gautier;Roche;Roy;Mathieu;Roussel;Duval;Guerin;Aubert;Marchand;Meunier"
+                },
+                {
+                    "id": "affectPlayer",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2547341264",
+            "sourceWorkshopId": 2547341264,
+            "name": "Player Voice French",
+            "fields": [
+                {
+                    "id": "KillStreakTarget",
+                    "serializedValue": "10"
+                },
+                {
+                    "id": "volume",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "SmokeGrenades",
+                    "serializedValue": "SMOKE GRENADE"
+                },
+                {
+                    "id": "DoKillVoices",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoHurtVoices",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoDeathVoices",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoKillStreaks",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoFallingVoices",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoReloadingVoices",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoVictoryVoices",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoMatchStartVoice",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoLossVoices",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoRevengeKillVoices",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoCaptureVoices",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoGrenadeReactions",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoSmokeGrenadeReactions",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2866060226",
+            "sourceWorkshopId": 2866060226,
+            "name": "Chinese Military Names",
+            "fields": [
+                {
+                    "id": "BotNames",
+                    "serializedValue": "CPL. Wang;CPL. Li;CPL. Chang;CPL. Zhang;CPL. Liu;CPT. Chen;CPT. Yang;CPT. Wang;CPT. Li;CPT. Huang;LT. Huang;LT. Wang;LT. Li;LT. Liu;LT. Zhao;PFC. Wu;PFC. Zhao;PFC. Wang;PFC. Li;PFC. Chang;PFC. Chen;PFC. Liu;PFC. Zhou;PFC. Xu;PFC. Sun;PFC. Ma;PFC. Zhu;PFC. Guo;PFC. He;PFC. Lin;PFC. Gao;PFC. Luo;PFC. Zheng;PFC. Liang;PFC. Xie;PFC. Song;PFC. Tang;PFC. Xu;PFC. Deng;PFC. Han;PVT. Feng;PVT. Cao;PVT. Peng;PVT. Zeng;PVT. Xiao;PVT. Tian;PVT. Dong;PVT. Pan;PVT. Wang;PVT. Liu;PVT. Zhao;PVT. Liang;PVT. Zheng;PVT. Yuan;PVT. Cai;PVT. Zhu;PVT. Tang;PVT. Xu;SGT. Zhou;SGT. Jiang;SGT. Wang;SGT. Li;SGT. Yu;SPC. Yuan;SPC. Du;SPC. Ye;SPC. Cheng;SPC. Wei;SPC. Sun;SPC. Su;SPC. Luo;SPC. Lu;SPC. Ding;SPC. Wang;SPC. Li;SPC. Peng;SPC. Deng;SPC. Yao;SPC. Yang;SPC. Zhong;SPC. Zhao;SPC. Jiang;SPC. Tang;SPC. He;SPC. Liao;SPC. Shi;SPC. Jin;SPC. Wei;SPC. Jia;SPC. Xia;SPC. Zou;SPC. Xiong;SPC. Bai;SPC. Meng;SPC. Qin;SPC. Qiu;SPC. Hou;SPC. Yin;SPC. Xue;SPC. Duan;"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "1"
+                }
+            ]
+        }
+    ],
+    "playerHasAllWeapons": false
+}

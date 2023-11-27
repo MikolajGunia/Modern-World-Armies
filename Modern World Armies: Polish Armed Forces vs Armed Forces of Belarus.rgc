@@ -1,0 +1,1075 @@
+﻿{
+    "teamInfo": [
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "2421000653",
+                    "sourceWorkshopId": 2421000653,
+                    "name": "Entrenching Tool"
+                },
+                {
+                    "sourceDirectory": "2927599425",
+                    "sourceWorkshopId": 2927599425,
+                    "name": "aks74un z"
+                },
+                {
+                    "sourceDirectory": "2885097896",
+                    "sourceWorkshopId": 2885097896,
+                    "name": "f2000exps3"
+                },
+                {
+                    "sourceDirectory": "2885097896",
+                    "sourceWorkshopId": 2885097896,
+                    "name": "f2000"
+                },
+                {
+                    "sourceDirectory": "2978698445",
+                    "sourceWorkshopId": 2978698445,
+                    "name": "G36C"
+                },
+                {
+                    "sourceDirectory": "2174266029",
+                    "sourceWorkshopId": 2174266029,
+                    "name": "Type 20 Holo GL"
+                },
+                {
+                    "sourceDirectory": "2174266029",
+                    "sourceWorkshopId": 2174266029,
+                    "name": "Type 20 HOWA 5.56"
+                },
+                {
+                    "sourceDirectory": "2174266029",
+                    "sourceWorkshopId": 2174266029,
+                    "name": "Type 20 Holo"
+                },
+                {
+                    "sourceDirectory": "2174266029",
+                    "sourceWorkshopId": 2174266029,
+                    "name": "Type 20 GL"
+                },
+                {
+                    "sourceDirectory": "2885078858",
+                    "sourceWorkshopId": 2885078858,
+                    "name": "m4a1pro"
+                },
+                {
+                    "sourceDirectory": "2978698445",
+                    "sourceWorkshopId": 2978698445,
+                    "name": "G36"
+                },
+                {
+                    "sourceDirectory": "2854554807",
+                    "sourceWorkshopId": 2854554807,
+                    "name": "ak74m Zenit"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416D CAG-S"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416D CAG"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416MOD-H/S/L"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416-H/L/K"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416-H LAPD"
+                },
+                {
+                    "sourceDirectory": "2997911069",
+                    "sourceWorkshopId": 2997911069,
+                    "name": "HK416-H"
+                },
+                {
+                    "sourceDirectory": "2571274928",
+                    "sourceWorkshopId": 2571274928,
+                    "name": "ak102"
+                },
+                {
+                    "sourceDirectory": "2969307555",
+                    "sourceWorkshopId": 2969307555,
+                    "name": "PKM"
+                },
+                {
+                    "sourceDirectory": "1545234783",
+                    "sourceWorkshopId": 1545234783,
+                    "name": "SVD-II"
+                },
+                {
+                    "sourceDirectory": "1545234783",
+                    "sourceWorkshopId": 1545234783,
+                    "name": "SVD-I"
+                },
+                {
+                    "sourceDirectory": "3034074224",
+                    "sourceWorkshopId": 3034074224,
+                    "name": "M14 EMR"
+                },
+                {
+                    "sourceDirectory": "1877507329",
+                    "sourceWorkshopId": 1877507329,
+                    "name": "Sako TRG-42"
+                },
+                {
+                    "sourceDirectory": "2053057554",
+                    "sourceWorkshopId": 2053057554,
+                    "name": "HK PSG1 "
+                },
+                {
+                    "sourceDirectory": "3034074224",
+                    "sourceWorkshopId": 3034074224,
+                    "name": "M14 EBR"
+                },
+                {
+                    "sourceDirectory": "1545234783",
+                    "sourceWorkshopId": 1545234783,
+                    "name": "SVD-DR"
+                },
+                {
+                    "sourceDirectory": "2730488373",
+                    "sourceWorkshopId": 2730488373,
+                    "name": "m82"
+                },
+                {
+                    "sourceDirectory": "1545234783",
+                    "sourceWorkshopId": 1545234783,
+                    "name": "SVD"
+                },
+                {
+                    "sourceDirectory": "3036164799",
+                    "sourceWorkshopId": 3036164799,
+                    "name": "Remington 700"
+                },
+                {
+                    "sourceDirectory": "2346430067",
+                    "sourceWorkshopId": 2346430067,
+                    "name": "Remington 870"
+                },
+                {
+                    "sourceDirectory": "2640977955",
+                    "sourceWorkshopId": 2640977955,
+                    "name": "Pistolet Maszynowy wz. 1984"
+                },
+                {
+                    "sourceDirectory": "2656960366",
+                    "sourceWorkshopId": 2656960366,
+                    "name": "Scorpion EVO"
+                },
+                {
+                    "sourceDirectory": "2656960366",
+                    "sourceWorkshopId": 2656960366,
+                    "name": "Scorpion EVO Holo-MuzzleBreak"
+                },
+                {
+                    "sourceDirectory": "1759885826",
+                    "sourceWorkshopId": 1759885826,
+                    "name": "MP5"
+                },
+                {
+                    "sourceDirectory": "2675534572",
+                    "sourceWorkshopId": 2675534572,
+                    "name": "P90 (Primary)"
+                },
+                {
+                    "sourceDirectory": "2656960366",
+                    "sourceWorkshopId": 2656960366,
+                    "name": "Scorpion EVO Reflex-Suppressed"
+                },
+                {
+                    "sourceDirectory": "2656960366",
+                    "sourceWorkshopId": 2656960366,
+                    "name": "Scorpion EVO Reflex-MuzzleBreak"
+                },
+                {
+                    "sourceDirectory": "2656960366",
+                    "sourceWorkshopId": 2656960366,
+                    "name": "Scorpion EVO Holo-Suppressed"
+                },
+                {
+                    "sourceDirectory": "2991597545",
+                    "sourceWorkshopId": 2991597545,
+                    "name": "P226-S"
+                },
+                {
+                    "sourceDirectory": "2855798573",
+                    "sourceWorkshopId": 2855798573,
+                    "name": "HK USP Reflex Tactical"
+                },
+                {
+                    "sourceDirectory": "2855798573",
+                    "sourceWorkshopId": 2855798573,
+                    "name": "HK USP Tactical"
+                },
+                {
+                    "sourceDirectory": "2900414566",
+                    "sourceWorkshopId": 2900414566,
+                    "name": "FN Five-Seven Suppressed "
+                },
+                {
+                    "sourceDirectory": "2900414566",
+                    "sourceWorkshopId": 2900414566,
+                    "name": "FN Five-Seven TAC-SD"
+                },
+                {
+                    "sourceDirectory": "1684035459",
+                    "sourceWorkshopId": 1684035459,
+                    "name": "Walther P22 Suppressed"
+                },
+                {
+                    "sourceDirectory": "2359136262",
+                    "sourceWorkshopId": 2359136262,
+                    "name": "Beretta M92FS"
+                },
+                {
+                    "sourceDirectory": "2900414566",
+                    "sourceWorkshopId": 2900414566,
+                    "name": "FN Five-Seven TAC"
+                },
+                {
+                    "sourceDirectory": "2855798573",
+                    "sourceWorkshopId": 2855798573,
+                    "name": "HK USP"
+                },
+                {
+                    "sourceDirectory": "2910595478",
+                    "sourceWorkshopId": 2910595478,
+                    "name": "mwii-g17"
+                },
+                {
+                    "sourceDirectory": "2855798573",
+                    "sourceWorkshopId": 2855798573,
+                    "name": "HK USP Reflex"
+                },
+                {
+                    "sourceDirectory": "2910595478",
+                    "sourceWorkshopId": 2910595478,
+                    "name": "mwii-g17 rmr s"
+                },
+                {
+                    "sourceDirectory": "1684035459",
+                    "sourceWorkshopId": 1684035459,
+                    "name": "Walther P22"
+                },
+                {
+                    "sourceDirectory": "2910595478",
+                    "sourceWorkshopId": 2910595478,
+                    "name": "mwii-g17 s"
+                },
+                {
+                    "sourceDirectory": "2991597545",
+                    "sourceWorkshopId": 2991597545,
+                    "name": "P226"
+                },
+                {
+                    "sourceDirectory": "2900414566",
+                    "sourceWorkshopId": 2900414566,
+                    "name": "FN Five-Seven"
+                },
+                {
+                    "sourceDirectory": "2991597545",
+                    "sourceWorkshopId": 2991597545,
+                    "name": "P226 Flashlight"
+                },
+                {
+                    "sourceDirectory": "2640977955",
+                    "sourceWorkshopId": 2640977955,
+                    "name": "Pistolet Maszynowy wz. 1984 (secondary)"
+                },
+                {
+                    "sourceDirectory": "2675534572",
+                    "sourceWorkshopId": 2675534572,
+                    "name": "P90 (Secondary)"
+                },
+                {
+                    "sourceDirectory": "1759885826",
+                    "sourceWorkshopId": 1759885826,
+                    "name": "MP5K"
+                },
+                {
+                    "sourceDirectory": "2782123396",
+                    "sourceWorkshopId": 2782123396,
+                    "name": "F1 FRAG"
+                },
+                {
+                    "sourceDirectory": "2782123396",
+                    "sourceWorkshopId": 2782123396,
+                    "name": "M26A1 FRAG"
+                },
+                {
+                    "sourceDirectory": "2236443375",
+                    "sourceWorkshopId": 2236443375,
+                    "name": "M2 Crane Goshawk (Vanilla Scope)"
+                },
+                {
+                    "sourceDirectory": "2849776151",
+                    "sourceWorkshopId": 2849776151,
+                    "name": "SA18"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "RPG-7"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "RPG-7 Anti-Tank"
+                },
+                {
+                    "sourceDirectory": "2871233718",
+                    "sourceWorkshopId": 2871233718,
+                    "name": "FGM148"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "RPG-7 Anti-Tank Multi Scope"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "RPG-7 Anti-Tank Scope"
+                },
+                {
+                    "sourceDirectory": "3016431826",
+                    "sourceWorkshopId": 3016431826,
+                    "name": "M72A5"
+                },
+                {
+                    "sourceDirectory": "3016431826",
+                    "sourceWorkshopId": 3016431826,
+                    "name": "RPG26"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "RPG-7 Multi-Scope"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "RPG-7 Scope"
+                },
+                {
+                    "sourceDirectory": "2995390173",
+                    "sourceWorkshopId": 2995390173,
+                    "name": "FN Minimi 5.56 Gear"
+                },
+                {
+                    "sourceDirectory": "2815074086",
+                    "sourceWorkshopId": 2815074086,
+                    "name": "Binoculars"
+                },
+                {
+                    "sourceDirectory": "2283452545",
+                    "sourceWorkshopId": 2283452545,
+                    "name": "BF4 Ammo Crate"
+                },
+                {
+                    "sourceDirectory": "2283452545",
+                    "sourceWorkshopId": 2283452545,
+                    "name": "BF4 Medkit"
+                },
+                {
+                    "sourceDirectory": "2995390173",
+                    "sourceWorkshopId": 2995390173,
+                    "name": "FN Minimi 5.56"
+                },
+                {
+                    "sourceDirectory": "1922168394",
+                    "sourceWorkshopId": 1922168394,
+                    "name": "Bandage"
+                },
+                {
+                    "sourceDirectory": "1922168394",
+                    "sourceWorkshopId": 1922168394,
+                    "name": "Morphine"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2934596880",
+                    "sourceWorkshopId": 2934596880,
+                    "name": "Star 266"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2494620507",
+                    "sourceWorkshopId": 2494620507,
+                    "name": "Humvee MG FIX Green 1"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2494620507",
+                    "sourceWorkshopId": 2494620507,
+                    "name": "Humvee Transport Woodland FIX"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "2905934191",
+                    "sourceWorkshopId": 2905934191,
+                    "name": "K2 standalone"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "2961087480",
+                    "sourceWorkshopId": 2961087480,
+                    "name": "MI-24 HIND (D)"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2404167901",
+                    "sourceWorkshopId": 2404167901,
+                    "name": "MIG-29 Fullcrum 1 1"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "1625039302",
+                    "sourceWorkshopId": 1625039302,
+                    "name": "F-35B"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "2354242040",
+                    "sourceWorkshopId": 2354242040,
+                    "name": "mi-17 woodland"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "2965506392",
+                    "sourceWorkshopId": 2965506392,
+                    "name": "brdm 30mm"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2546612980",
+                    "sourceWorkshopId": 2546612980,
+                    "name": "Kord HMG GG"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2949724077",
+                    "sourceWorkshopId": 2949724077,
+                    "name": "spg-9 (remake) (taller)"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2351694765",
+                    "sourceWorkshopId": 2351694765,
+                    "name": "ZU AA GG 4"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2844156058",
+                "sourceWorkshopId": 2844156058,
+                "name": "Polish Armed Force"
+            }
+        },
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AK-74"
+                },
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AKS-74N"
+                },
+                {
+                    "sourceDirectory": "2810772472",
+                    "sourceWorkshopId": 2810772472,
+                    "name": "9A91"
+                },
+                {
+                    "sourceDirectory": "2810772472",
+                    "sourceWorkshopId": 2810772472,
+                    "name": "9A91 Kobra S"
+                },
+                {
+                    "sourceDirectory": "2767544210",
+                    "sourceWorkshopId": 2767544210,
+                    "name": "AKM"
+                },
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AK-74 GP-25"
+                },
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AK-74m"
+                },
+                {
+                    "sourceDirectory": "2767544210",
+                    "sourceWorkshopId": 2767544210,
+                    "name": "AKM GP-25"
+                },
+                {
+                    "sourceDirectory": "2810772472",
+                    "sourceWorkshopId": 2810772472,
+                    "name": "9A91 PKAS"
+                },
+                {
+                    "sourceDirectory": "2810772472",
+                    "sourceWorkshopId": 2810772472,
+                    "name": "9A91 PKAS S"
+                },
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AK-74m ACOG"
+                },
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AK-74m EoTech"
+                },
+                {
+                    "sourceDirectory": "2767544210",
+                    "sourceWorkshopId": 2767544210,
+                    "name": "AKMN"
+                },
+                {
+                    "sourceDirectory": "2810772472",
+                    "sourceWorkshopId": 2810772472,
+                    "name": "9A91 S"
+                },
+                {
+                    "sourceDirectory": "2975166709",
+                    "sourceWorkshopId": 2975166709,
+                    "name": "AK-12 Tactical"
+                },
+                {
+                    "sourceDirectory": "2767544210",
+                    "sourceWorkshopId": 2767544210,
+                    "name": "AKMS"
+                },
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AK-74m GP-25"
+                },
+                {
+                    "sourceDirectory": "2268050888",
+                    "sourceWorkshopId": 2268050888,
+                    "name": "AK-47"
+                },
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AK-74m Kobra"
+                },
+                {
+                    "sourceDirectory": "2767544210",
+                    "sourceWorkshopId": 2767544210,
+                    "name": "AKMSN"
+                },
+                {
+                    "sourceDirectory": "2969307555",
+                    "sourceWorkshopId": 2969307555,
+                    "name": "PKM"
+                },
+                {
+                    "sourceDirectory": "2975166709",
+                    "sourceWorkshopId": 2975166709,
+                    "name": "AK-12"
+                },
+                {
+                    "sourceDirectory": "2796037685",
+                    "sourceWorkshopId": 2796037685,
+                    "name": "MTs-116M semi- automatic rifle (fictional)"
+                },
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AKS-74"
+                },
+                {
+                    "sourceDirectory": "2399681523",
+                    "sourceWorkshopId": 2399681523,
+                    "name": "EXTAS - AS VAL"
+                },
+                {
+                    "sourceDirectory": "3038440886",
+                    "sourceWorkshopId": 3038440886,
+                    "name": "T-5000S"
+                },
+                {
+                    "sourceDirectory": "1421636965",
+                    "sourceWorkshopId": 1421636965,
+                    "name": "VSS VINTOREZ"
+                },
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AK-74m 1P78"
+                },
+                {
+                    "sourceDirectory": "1545234783",
+                    "sourceWorkshopId": 1545234783,
+                    "name": "SVD"
+                },
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AKS-74 PSO-1"
+                },
+                {
+                    "sourceDirectory": "2796037685",
+                    "sourceWorkshopId": 2796037685,
+                    "name": "MTs-116M bolt action rifle"
+                },
+                {
+                    "sourceDirectory": "2861625331",
+                    "sourceWorkshopId": 2861625331,
+                    "name": "OSV-96 (polymer)"
+                },
+                {
+                    "sourceDirectory": "3038440886",
+                    "sourceWorkshopId": 3038440886,
+                    "name": "T-5000"
+                },
+                {
+                    "sourceDirectory": "1545234783",
+                    "sourceWorkshopId": 1545234783,
+                    "name": "SVD-I"
+                },
+                {
+                    "sourceDirectory": "1759885826",
+                    "sourceWorkshopId": 1759885826,
+                    "name": "MP5"
+                },
+                {
+                    "sourceDirectory": "1412056006",
+                    "sourceWorkshopId": 1412056006,
+                    "name": "M590"
+                },
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AKS-74u"
+                },
+                {
+                    "sourceDirectory": "2091797818",
+                    "sourceWorkshopId": 2091797818,
+                    "name": "M1014"
+                },
+                {
+                    "sourceDirectory": "2091797818",
+                    "sourceWorkshopId": 2091797818,
+                    "name": "Benelli M4 Tactical"
+                },
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AKS-74u Extended Mag"
+                },
+                {
+                    "sourceDirectory": "2799091354",
+                    "sourceWorkshopId": 2799091354,
+                    "name": "MP5-A2"
+                },
+                {
+                    "sourceDirectory": "1759885826",
+                    "sourceWorkshopId": 1759885826,
+                    "name": "MP5SD"
+                },
+                {
+                    "sourceDirectory": "2799091354",
+                    "sourceWorkshopId": 2799091354,
+                    "name": "MP5-A2 TAC"
+                },
+                {
+                    "sourceDirectory": "2799091354",
+                    "sourceWorkshopId": 2799091354,
+                    "name": "MP5-A3"
+                },
+                {
+                    "sourceDirectory": "1759885826",
+                    "sourceWorkshopId": 1759885826,
+                    "name": "MP5K Buttstock"
+                },
+                {
+                    "sourceDirectory": "2091797818",
+                    "sourceWorkshopId": 2091797818,
+                    "name": "Benelli M4"
+                },
+                {
+                    "sourceDirectory": "2799091354",
+                    "sourceWorkshopId": 2799091354,
+                    "name": "MP5-A3 TAC"
+                },
+                {
+                    "sourceDirectory": "2814142633",
+                    "sourceWorkshopId": 2814142633,
+                    "name": "Makarov Suppressed"
+                },
+                {
+                    "sourceDirectory": "2767544210",
+                    "sourceWorkshopId": 2767544210,
+                    "name": "AKMS Suppressed"
+                },
+                {
+                    "sourceDirectory": "2991597545",
+                    "sourceWorkshopId": 2991597545,
+                    "name": "P226-S"
+                },
+                {
+                    "sourceDirectory": "2991597545",
+                    "sourceWorkshopId": 2991597545,
+                    "name": "P226 Tac-S"
+                },
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AKS-74u UB"
+                },
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AKS-74u Suppressed"
+                },
+                {
+                    "sourceDirectory": "2991597545",
+                    "sourceWorkshopId": 2991597545,
+                    "name": "P226 Tac"
+                },
+                {
+                    "sourceDirectory": "2563343378",
+                    "sourceWorkshopId": 2563343378,
+                    "name": "EXTAS - APS"
+                },
+                {
+                    "sourceDirectory": "2814142633",
+                    "sourceWorkshopId": 2814142633,
+                    "name": "Makarov"
+                },
+                {
+                    "sourceDirectory": "2910595478",
+                    "sourceWorkshopId": 2910595478,
+                    "name": "mwii-g17"
+                },
+                {
+                    "sourceDirectory": "2910595478",
+                    "sourceWorkshopId": 2910595478,
+                    "name": "mwii-g17 rmr s"
+                },
+                {
+                    "sourceDirectory": "2910595478",
+                    "sourceWorkshopId": 2910595478,
+                    "name": "mwii-g17 s"
+                },
+                {
+                    "sourceDirectory": "2991597545",
+                    "sourceWorkshopId": 2991597545,
+                    "name": "P226"
+                },
+                {
+                    "sourceDirectory": "2991597545",
+                    "sourceWorkshopId": 2991597545,
+                    "name": "P226 Flashlight"
+                },
+                {
+                    "sourceDirectory": "1759885826",
+                    "sourceWorkshopId": 1759885826,
+                    "name": "MP5K"
+                },
+                {
+                    "sourceDirectory": "2810772472",
+                    "sourceWorkshopId": 2810772472,
+                    "name": "9A91[SECONDARY]"
+                },
+                {
+                    "sourceDirectory": "3016431826",
+                    "sourceWorkshopId": 3016431826,
+                    "name": "RPG26 Thermobaric"
+                },
+                {
+                    "sourceDirectory": "3016431826",
+                    "sourceWorkshopId": 3016431826,
+                    "name": "M72A7"
+                },
+                {
+                    "sourceDirectory": "2867618927",
+                    "sourceWorkshopId": 2867618927,
+                    "name": "RPO-A"
+                },
+                {
+                    "sourceDirectory": "2810772472",
+                    "sourceWorkshopId": 2810772472,
+                    "name": "9A91 Kobra S[GEAR]"
+                },
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AKS-74u (Gear)"
+                },
+                {
+                    "sourceDirectory": "1862573184",
+                    "sourceWorkshopId": 1862573184,
+                    "name": "M870"
+                },
+                {
+                    "sourceDirectory": "3038440886",
+                    "sourceWorkshopId": 3038440886,
+                    "name": "T-5000 Gear"
+                },
+                {
+                    "sourceDirectory": "3038440886",
+                    "sourceWorkshopId": 3038440886,
+                    "name": "T-5000-S Gear"
+                },
+                {
+                    "sourceDirectory": "2810772472",
+                    "sourceWorkshopId": 2810772472,
+                    "name": "9A91 S[GEAR]"
+                },
+                {
+                    "sourceDirectory": "2810772472",
+                    "sourceWorkshopId": 2810772472,
+                    "name": "9A91[GEAR]"
+                },
+                {
+                    "sourceDirectory": "2815074086",
+                    "sourceWorkshopId": 2815074086,
+                    "name": "Binoculars"
+                },
+                {
+                    "sourceDirectory": "2283452545",
+                    "sourceWorkshopId": 2283452545,
+                    "name": "BF4 Medkit"
+                },
+                {
+                    "sourceDirectory": "2283452545",
+                    "sourceWorkshopId": 2283452545,
+                    "name": "BF4 Ammo Crate"
+                },
+                {
+                    "sourceDirectory": "1922168394",
+                    "sourceWorkshopId": 1922168394,
+                    "name": "Bandage"
+                },
+                {
+                    "sourceDirectory": "1922168394",
+                    "sourceWorkshopId": 1922168394,
+                    "name": "Morphine"
+                },
+                {
+                    "sourceDirectory": "2421000653",
+                    "sourceWorkshopId": 2421000653,
+                    "name": "Entrenching Tool"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2351398036",
+                    "sourceWorkshopId": 2351398036,
+                    "name": "Gaz-66 transport v2 1"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2170149659",
+                    "sourceWorkshopId": 2170149659,
+                    "name": "Dongfeng Mengshi EQ2050B MG"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "2905452891",
+                    "sourceWorkshopId": 2905452891,
+                    "name": "T-72AV 1"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "2961087480",
+                    "sourceWorkshopId": 2961087480,
+                    "name": "MI-24 HIND (D)"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2404167901",
+                    "sourceWorkshopId": 2404167901,
+                    "name": "MIG-29 Fullcrum 1 1"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "1273679749",
+                    "sourceWorkshopId": 1273679749,
+                    "name": "Ilyushin_II_76"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "3004092460",
+                    "sourceWorkshopId": 3004092460,
+                    "name": "lf_Mi-8 VDV"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "2919853182",
+                    "sourceWorkshopId": 2919853182,
+                    "name": "BTR-80"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2772868691",
+                    "sourceWorkshopId": 2772868691,
+                    "name": "DSHKM turret"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2931138456",
+                    "sourceWorkshopId": 2931138456,
+                    "name": "kornet"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2491444784",
+                "sourceWorkshopId": 2491444784,
+                "name": "Russian Recon"
+            }
+        }
+    ],
+    "mutatorInfo": [
+        {
+            "sourceDirectory": "2833321017",
+            "sourceWorkshopId": 2833321017,
+            "name": "Flags of the World",
+            "fields": [
+                {
+                    "id": "EagleFlag",
+                    "serializedValue": "137"
+                },
+                {
+                    "id": "RavenFlag",
+                    "serializedValue": "15"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2866200676",
+            "sourceWorkshopId": 2866200676,
+            "name": "Polish Bot Names",
+            "fields": [
+                {
+                    "id": "firstNames",
+                    "serializedValue": "szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;szer.;st. szer.;st. szer.;st. szer.;st. szer.;st. szer.;st. szer.;st. szer.;st. szer.;st. szer.;st. szer.;st. szer.;st. szer.;st. szer.;st. szer.;st. szer.;kpr.;kpr.;kpr.;kpr.;kpr.;plut.;plut.;plut.;plut.;sierż.;sierż.;st. sierż.;chor.;chor.;ppor.;por.;kpt.;mjr;ppłk;płk"
+                },
+                {
+                    "id": "lastNames",
+                    "serializedValue": "Kowalski;Nowak;Wiśniewski;Czereśniak;Dąbrowski;Woźniak;Kozłowski;Mazur;Sikora;Zając;Kaczmarek;Michalski;Wieczorek;Zawadzki;Dudek;Sobczak;Pietrzak;Kołodziej;Kaźmierczak;Zakrzewski;Mróz;Szulc;Cieślak;Borowski;Szymczak;Dolas;Głowacki;Skiba;Wójcik;Michalak;Obrochta;Kociniak;Pieczka;Przybylski;Andrzejewski;Makowski;Niewiadomski;Gawron;Krupa;Żurek;Kowalczyk;Kamiński;Zieliński;Jankowski;Krawczyk;Piotrowski;Król;Pawłowski;Jabłoński;Wróbel;Kania;Rybicki;Skrzynecki;Małecki;Kędzierski;Dawidowski;Zawadzki;Domański;Bytnar;Zubryk;Szymański;Pawlak;Walczak;Górski;Baran;Jeleń;Topolski;Kwiatkowski;Malinowski;Szawełło;Duda;Bąk;Jakubowski;Marciniak;Sadowski;Wichura;Kustroń;Czarny;Jasiński;Tomaszewski;Wilk;Spiechowicz;Galica;Chmielewski;Borkowski;Bukowski;Sokołowski;Szczepański;Pawłowicz;Matecki;Pietrzak;Kos;Jarosz;Stankiewicz;Konieczny;Dąbrowski;Dobrzański;Glabisz;Zaremba;Kukliński"
+                },
+                {
+                    "id": "affectPlayer",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2783861855",
+            "sourceWorkshopId": 2783861855,
+            "name": "Polish Voices Pack",
+            "fields": [
+                {
+                    "id": "assignedTeam",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2918470104",
+            "sourceWorkshopId": 2918470104,
+            "name": "[<color=aqua>LQS</color>] Weapon Pickup",
+            "fields": [
+                {
+                    "id": "despawnTime",
+                    "serializedValue": "140"
+                },
+                {
+                    "id": "pickupDelay",
+                    "serializedValue": "0.35"
+                },
+                {
+                    "id": "pickupRange",
+                    "serializedValue": "1.65"
+                },
+                {
+                    "id": "dropDistance",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "freezePhysicsDistance",
+                    "serializedValue": "25"
+                },
+                {
+                    "id": "dropChance",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "pickupKey",
+                    "serializedValue": "F"
+                },
+                {
+                    "id": "dropKey",
+                    "serializedValue": "H"
+                },
+                {
+                    "id": "weaponBlacklist",
+                    "serializedValue": "Example,Gun1,Gun2,Gun3"
+                },
+                {
+                    "id": "canDespawn",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "dropChanceEnabled",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "dropChanceDontAffectPlayer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "canBlacklist",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "dropByDistance",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "freezePhysicsWhenStopped",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "anarchyMode",
+                    "serializedValue": "False"
+                }
+            ]
+        }
+    ],
+    "playerHasAllWeapons": false
+}
